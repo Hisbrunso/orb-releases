@@ -28,8 +28,6 @@ Orb 目前处于早期 Prototype / Alpha 阶段。
 
 前往 [Releases](https://github.com/Hisbrunso/orb-releases/releases) 下载最新 Windows 安装包。
 
-下载最新 Windows 安装包。
-
 目前仅支持：
 
 - Windows 10
