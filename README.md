@@ -26,9 +26,7 @@ Orb 目前处于早期 Prototype / Alpha 阶段。
 
 ## 下载
 
-请前往：
-
-**Releases**
+前往 [Releases](https://github.com/Hisbrunso/orb-releases/releases) 下载最新 Windows 安装包。
 
 下载最新 Windows 安装包。
 
@@ -66,3 +64,7 @@ Orb 目前属于早期测试软件。
 ## Source Code
 
 Orb 的源代码目前处于私人开发阶段，暂未公开。
+
+## SHA-256
+
+`d44abc4f01a4ac3886d1c3e6ed2d42497d48f9f3f31480f2d17260fdd14e7f30`
